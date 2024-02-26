@@ -3,8 +3,6 @@
 
 ## A Simple To-Do Website!
 
-#### This web page is hosted [here!](https://tusharjustdoit.netlify.app/)
-
 ## *Technologies used*
 
 - HTML5
